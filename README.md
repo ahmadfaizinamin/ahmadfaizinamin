@@ -2,7 +2,7 @@
   GITHUB PROFILE README — Dark Modern · Glassy
   Palette:  Midnight #0F0C29 · Indigo #302B63 · Violet #A78BFA · Cyan #67E8F9 · Ice #E0E7FF
   Cara pakai: simpan sebagai README.md di repo bernama sama dengan
-  username GitHub-mu, lalu ganti semua "USERNAME" dan teks placeholder.
+  username GitHub-mu, lalu ganti semua "ahmadfaizinamin" dan teks placeholder.
 ============================================================ -->
 
 <div align="center">
@@ -16,10 +16,10 @@
 <br/><br/>
 
 [![Email](https://img.shields.io/badge/-Email-1A1B2E?style=flat-square&logo=gmail&logoColor=A78BFA&labelColor=1A1B2E)](mailto:email@kamu.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1A1B2E?style=flat-square&logo=linkedin&logoColor=67E8F9&labelColor=1A1B2E)](https://linkedin.com/in/USERNAME)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1A1B2E?style=flat-square&logo=linkedin&logoColor=67E8F9&labelColor=1A1B2E)](https://linkedin.com/in/ahmadfaizinamin)
 [![Website](https://img.shields.io/badge/-Portfolio-1A1B2E?style=flat-square&logo=safari&logoColor=A78BFA&labelColor=1A1B2E)](https://yourwebsite.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-1A1B2E?style=flat-square&logo=github&logoColor=E0E7FF&labelColor=1A1B2E)](https://github.com/USERNAME)
-![Views](https://komarev.com/ghpvc/?username=USERNAME&label=views&color=302B63&style=flat-square&labelColor=1A1B2E)
+[![GitHub](https://img.shields.io/badge/-GitHub-1A1B2E?style=flat-square&logo=github&logoColor=E0E7FF&labelColor=1A1B2E)](https://github.com/ahmadfaizinamin)
+![Views](https://komarev.com/ghpvc/?username=ahmadfaizinamin&label=views&color=302B63&style=flat-square&labelColor=1A1B2E)
 
 </div>
 
@@ -69,19 +69,19 @@ reach_me:  email@kamu.com
 <table>
   <tr>
     <td width="33%" valign="top">
-      <b><a href="https://github.com/USERNAME/project-one">project-one</a></b><br/>
+      <b><a href="https://github.com/ahmadfaizinamin/project-one">project-one</a></b><br/>
       <sub>REST API e-commerce dengan autentikasi & payment gateway.</sub><br/><br/>
       <img src="https://img.shields.io/badge/-Laravel-1A1B2E?style=flat-square&labelColor=1A1B2E&color=A78BFA" />
       <img src="https://img.shields.io/badge/-Redis-1A1B2E?style=flat-square&labelColor=1A1B2E&color=67E8F9" />
     </td>
     <td width="33%" valign="top">
-      <b><a href="https://github.com/USERNAME/project-two">project-two</a></b><br/>
+      <b><a href="https://github.com/ahmadfaizinamin/project-two">project-two</a></b><br/>
       <sub>Sistem inventori multi-tenant dengan role & permission.</sub><br/><br/>
       <img src="https://img.shields.io/badge/-Laravel-1A1B2E?style=flat-square&labelColor=1A1B2E&color=A78BFA" />
       <img src="https://img.shields.io/badge/-PostgreSQL-1A1B2E?style=flat-square&labelColor=1A1B2E&color=67E8F9" />
     </td>
     <td width="33%" valign="top">
-      <b><a href="https://github.com/USERNAME/project-three">project-three</a></b><br/>
+      <b><a href="https://github.com/ahmadfaizinamin/project-three">project-three</a></b><br/>
       <sub>Package Laravel open source untuk [fungsi].</sub><br/><br/>
       <img src="https://img.shields.io/badge/-PHP-1A1B2E?style=flat-square&labelColor=1A1B2E&color=A78BFA" />
       <img src="https://img.shields.io/badge/-Pest-1A1B2E?style=flat-square&labelColor=1A1B2E&color=67E8F9" />
@@ -95,16 +95,16 @@ reach_me:  email@kamu.com
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&hide_border=false&border_color=ffffff1f&border_radius=16&bg_color=ffffff0a&title_color=A78BFA&text_color=C7D2FE&icon_color=67E8F9&ring_color=A78BFA&include_all_commits=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&hide_border=false&border_color=ffffff1f&border_radius=16&bg_color=ffffff0a&title_color=A78BFA&text_color=C7D2FE&langs_count=8" alt="top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmadfaizinamin&show_icons=true&hide_border=false&border_color=ffffff1f&border_radius=16&bg_color=ffffff0a&title_color=A78BFA&text_color=C7D2FE&icon_color=67E8F9&ring_color=A78BFA&include_all_commits=true&count_private=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfaizinamin&layout=compact&hide_border=false&border_color=ffffff1f&border_radius=16&bg_color=ffffff0a&title_color=A78BFA&text_color=C7D2FE&langs_count=8" alt="top languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&hide_border=false&border_radius=16&background=ffffff0a&stroke=ffffff1f&ring=A78BFA&fire=67E8F9&currStreakNum=E0E7FF&sideNums=C7D2FE&currStreakLabel=A78BFA&sideLabels=C7D2FE&dates=818CF8" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmadfaizinamin&hide_border=false&border_radius=16&background=ffffff0a&stroke=ffffff1f&ring=A78BFA&fire=67E8F9&currStreakNum=E0E7FF&sideNums=C7D2FE&currStreakLabel=A78BFA&sideLabels=C7D2FE&dates=818CF8" alt="streak" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=ahmadfaizinamin&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
 
 </div>
 
