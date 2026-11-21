@@ -67,7 +67,7 @@ reach_me:  ahmadfaizinaminrpl2@gmail.com
   <tr>
     <td width="33%" valign="top">
       <b><a href="https://github.com/Donasi-DonDu/api-dondu">DonDu (api-dondu)</a></b><br/>
-      <sub>Backend REST API aplikasi penggalangan dana & donasi digital dengan pembayaran QR.</sub><br/><br/>
+      <sub>Backend REST API aplikasi penggalangan dana & donasi digital uang dan barang.</sub><br/><br/>
       <img src="https://img.shields.io/badge/-Laravel-1A1B2E?style=flat-square&labelColor=1A1B2E&color=A78BFA" />
       <img src="https://img.shields.io/badge/-MySQL-1A1B2E?style=flat-square&labelColor=1A1B2E&color=67E8F9" />
     </td>
