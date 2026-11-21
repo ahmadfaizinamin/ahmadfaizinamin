@@ -66,24 +66,11 @@ reach_me:  ahmadfaizinaminrpl2@gmail.com
 <table>
   <tr>
     <td width="33%" valign="top">
-      <b><a href="https://github.com/ahmadfaizinamin/api-dondu">DonDu (api-dondu)</a></b><br/>
+      <b><a href="https://github.com/Donasi-DonDu/api-dondu">DonDu (api-dondu)</a></b><br/>
       <sub>Backend REST API aplikasi penggalangan dana & donasi digital dengan pembayaran QR.</sub><br/><br/>
       <img src="https://img.shields.io/badge/-Laravel-1A1B2E?style=flat-square&labelColor=1A1B2E&color=A78BFA" />
       <img src="https://img.shields.io/badge/-MySQL-1A1B2E?style=flat-square&labelColor=1A1B2E&color=67E8F9" />
     </td>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/ahmadfaizinamin/portfolio-backend">Portfolio API</a></b><br/>
-      <sub>Backend REST API terpisah (decoupled) untuk manajemen proyek dan portofolio pribadi.</sub><br/><br/>
-      <img src="https://img.shields.io/badge/-Laravel-1A1B2E?style=flat-square&labelColor=1A1B2E&color=A78BFA" />
-      <img src="https://img.shields.io/badge/-REST_API-1A1B2E?style=flat-square&labelColor=1A1B2E&color=67E8F9" />
-    </td>
-    <td width="33%" valign="top">
-      <b><a href="https://github.com/ahmadfaizinamin">Smart RT Ecosystem</a></b><br/>
-      <sub>Pemeliharaan backend, validasi transaksi, dan manajemen iuran warga berbasis API.</sub><br/><br/>
-      <img src="https://img.shields.io/badge/-PHP-1A1B2E?style=flat-square&labelColor=1A1B2E&color=A78BFA" />
-      <img src="https://img.shields.io/badge/-Laravel-1A1B2E?style=flat-square&labelColor=1A1B2E&color=67E8F9" />
-    </td>
-  </tr>
 </table>
 
 <br/>
