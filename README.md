@@ -1,23 +1,19 @@
 <!-- ============================================================
   GITHUB PROFILE README — Dark Modern · Glassy
   Palette:  Midnight #0F0C29 · Indigo #302B63 · Violet #A78BFA · Cyan #67E8F9 · Ice #E0E7FF
-  Cara pakai: simpan sebagai README.md di repo bernama sama dengan
-  username GitHub-mu, lalu ganti semua "ahmadfaizinamin" dan teks placeholder.
 ============================================================ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Your%20Name&fontSize=54&fontColor=E0E7FF&stroke=A78BFA&strokeWidth=1&animation=fadeIn&fontAlignY=42&desc=Backend%20Developer%20%C2%B7%20PHP%20%C2%B7%20Laravel&descSize=17&descColor=67E8F9&descAlignY=64" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Amin&fontSize=54&fontColor=E0E7FF&stroke=A78BFA&strokeWidth=1&animation=fadeIn&fontAlignY=42&desc=Backend%20Developer%20%C2%B7%20PHP%20%C2%B7%20Laravel&descSize=17&descColor=67E8F9&descAlignY=64" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=Designing+clean+REST+APIs;Shipping+scalable+Laravel+systems;Obsessed+with+performance+%26+clarity" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=Designing+clean+REST+APIs;Shipping+scalable+Laravel+systems;Building+DonDu+Backend+Ecosystem" alt="typing" />
 </a>
 
 <br/><br/>
 
-[![Email](https://img.shields.io/badge/-Email-1A1B2E?style=flat-square&logo=gmail&logoColor=A78BFA&labelColor=1A1B2E)](mailto:email@kamu.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-1A1B2E?style=flat-square&logo=linkedin&logoColor=67E8F9&labelColor=1A1B2E)](https://linkedin.com/in/ahmadfaizinamin)
-[![Website](https://img.shields.io/badge/-Portfolio-1A1B2E?style=flat-square&logo=safari&logoColor=A78BFA&labelColor=1A1B2E)](https://yourwebsite.com)
+[![Email](https://img.shields.io/badge/-Email-1A1B2E?style=flat-square&logo=gmail&logoColor=A78BFA&labelColor=1A1B2E)](mailto:ahmadfaizinaminrpl2@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-1A1B2E?style=flat-square&logo=github&logoColor=E0E7FF&labelColor=1A1B2E)](https://github.com/ahmadfaizinamin)
 ![Views](https://komarev.com/ghpvc/?username=ahmadfaizinamin&label=views&color=302B63&style=flat-square&labelColor=1A1B2E)
 
@@ -27,16 +23,17 @@
 
 ## ◈ About
 
-> Backend developer yang fokus pada **REST API**, arsitektur bersih, dan performa.
-> Sehari-hari membangun sistem dengan **Laravel**, dari prototipe sampai produksi.
+> Backend developer yang fokus pada **REST API**, arsitektur bersih (SOLID), dan performa sistem.
+> Sehari-hari membangun layanan backend dengan **PHP & Laravel**, mulai dari perancangan database hingga siap produksi.
 
 ```yaml
+name:      Ahmad Faizin Amin (Amin)
 role:      Backend Developer
-stack:     [PHP, Laravel, MySQL, PostgreSQL, Redis, Docker]
-building:  nama-project
-learning:  [Domain-Driven Design, Kubernetes, Event Sourcing]
-open_to:   [collaboration, open-source, freelance]
-reach_me:  email@kamu.com
+stack:     [PHP, Laravel, MySQL, Redis, Docker, Linux]
+building:  DonDu (Aplikasi Donasi Digital)
+focus:     [REST API, JWT/Sanctum Auth, Queue & Caching, Clean Architecture]
+open_to:   [collaboration, backend-projects, open-source]
+reach_me:  ahmadfaizinaminrpl2@gmail.com
 ```
 
 <br/>
@@ -45,20 +42,20 @@ reach_me:  email@kamu.com
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,postgres,redis,docker,nginx,linux,git,githubactions,aws&theme=dark&perline=11" alt="stack" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis,docker,nginx,linux,git,github,gitlab,postman&theme=dark&perline=11" alt="stack" />
 
 </div>
 
 <details>
-<summary><b>◇ Ekosistem Laravel</b></summary>
+<summary><b>◇ Ekosistem Laravel & Backend</b></summary>
 <br/>
 
-![Eloquent](https://img.shields.io/badge/-Eloquent-1A1B2E?style=flat-square&logo=laravel&logoColor=A78BFA&labelColor=1A1B2E)
-![Sanctum](https://img.shields.io/badge/-Sanctum-1A1B2E?style=flat-square&logo=laravel&logoColor=67E8F9&labelColor=1A1B2E)
-![Horizon](https://img.shields.io/badge/-Horizon-1A1B2E?style=flat-square&logo=laravel&logoColor=A78BFA&labelColor=1A1B2E)
-![Livewire](https://img.shields.io/badge/-Livewire-1A1B2E?style=flat-square&logo=livewire&logoColor=67E8F9&labelColor=1A1B2E)
-![Filament](https://img.shields.io/badge/-Filament-1A1B2E?style=flat-square&logo=laravel&logoColor=A78BFA&labelColor=1A1B2E)
-![Pest](https://img.shields.io/badge/-Pest-1A1B2E?style=flat-square&logo=php&logoColor=67E8F9&labelColor=1A1B2E)
+![Eloquent](https://img.shields.io/badge/-Eloquent_ORM-1A1B2E?style=flat-square&logo=laravel&logoColor=A78BFA&labelColor=1A1B2E)
+![Sanctum](https://img.shields.io/badge/-Sanctum_&_JWT-1A1B2E?style=flat-square&logo=laravel&logoColor=67E8F9&labelColor=1A1B2E)
+![Queues](https://img.shields.io/badge/-Queues_&_Cron-1A1B2E?style=flat-square&logo=laravel&logoColor=A78BFA&labelColor=1A1B2E)
+![Redis](https://img.shields.io/badge/-Redis_Cache-1A1B2E?style=flat-square&logo=redis&logoColor=67E8F9&labelColor=1A1B2E)
+![REST API](https://img.shields.io/badge/-RESTful_API-1A1B2E?style=flat-square&logo=postman&logoColor=A78BFA&labelColor=1A1B2E)
+![SOLID](https://img.shields.io/badge/-Repository_&_Service-1A1B2E?style=flat-square&logo=php&logoColor=67E8F9&labelColor=1A1B2E)
 
 </details>
 
@@ -69,22 +66,22 @@ reach_me:  email@kamu.com
 <table>
   <tr>
     <td width="33%" valign="top">
-      <b><a href="https://github.com/ahmadfaizinamin/project-one">project-one</a></b><br/>
-      <sub>REST API e-commerce dengan autentikasi & payment gateway.</sub><br/><br/>
+      <b><a href="https://github.com/ahmadfaizinamin/api-dondu">DonDu (api-dondu)</a></b><br/>
+      <sub>Backend REST API aplikasi penggalangan dana & donasi digital dengan pembayaran QR.</sub><br/><br/>
       <img src="https://img.shields.io/badge/-Laravel-1A1B2E?style=flat-square&labelColor=1A1B2E&color=A78BFA" />
-      <img src="https://img.shields.io/badge/-Redis-1A1B2E?style=flat-square&labelColor=1A1B2E&color=67E8F9" />
+      <img src="https://img.shields.io/badge/-MySQL-1A1B2E?style=flat-square&labelColor=1A1B2E&color=67E8F9" />
     </td>
     <td width="33%" valign="top">
-      <b><a href="https://github.com/ahmadfaizinamin/project-two">project-two</a></b><br/>
-      <sub>Sistem inventori multi-tenant dengan role & permission.</sub><br/><br/>
+      <b><a href="https://github.com/ahmadfaizinamin/portfolio-backend">Portfolio API</a></b><br/>
+      <sub>Backend REST API terpisah (decoupled) untuk manajemen proyek dan portofolio pribadi.</sub><br/><br/>
       <img src="https://img.shields.io/badge/-Laravel-1A1B2E?style=flat-square&labelColor=1A1B2E&color=A78BFA" />
-      <img src="https://img.shields.io/badge/-PostgreSQL-1A1B2E?style=flat-square&labelColor=1A1B2E&color=67E8F9" />
+      <img src="https://img.shields.io/badge/-REST_API-1A1B2E?style=flat-square&labelColor=1A1B2E&color=67E8F9" />
     </td>
     <td width="33%" valign="top">
-      <b><a href="https://github.com/ahmadfaizinamin/project-three">project-three</a></b><br/>
-      <sub>Package Laravel open source untuk [fungsi].</sub><br/><br/>
+      <b><a href="https://github.com/ahmadfaizinamin">Smart RT Ecosystem</a></b><br/>
+      <sub>Pemeliharaan backend, validasi transaksi, dan manajemen iuran warga berbasis API.</sub><br/><br/>
       <img src="https://img.shields.io/badge/-PHP-1A1B2E?style=flat-square&labelColor=1A1B2E&color=A78BFA" />
-      <img src="https://img.shields.io/badge/-Pest-1A1B2E?style=flat-square&labelColor=1A1B2E&color=67E8F9" />
+      <img src="https://img.shields.io/badge/-Laravel-1A1B2E?style=flat-square&labelColor=1A1B2E&color=67E8F9" />
     </td>
   </tr>
 </table>
