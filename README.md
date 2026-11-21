@@ -92,8 +92,8 @@ reach_me:  ahmadfaizinaminrpl2@gmail.com
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmadfaizinamin&show_icons=true&hide_border=false&border_color=ffffff1f&border_radius=16&bg_color=ffffff0a&title_color=A78BFA&text_color=C7D2FE&icon_color=67E8F9&ring_color=A78BFA&include_all_commits=true&count_private=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfaizinamin&layout=compact&hide_border=false&border_color=ffffff1f&border_radius=16&bg_color=ffffff0a&title_color=A78BFA&text_color=C7D2FE&langs_count=8" alt="top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ahmadfaizinamin&show_icons=true&hide_border=false&border_color=ffffff1f&border_radius=16&bg_color=ffffff0a&title_color=A78BFA&text_color=C7D2FE&icon_color=67E8F9&ring_color=A78BFA&include_all_commits=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadfaizinamin&layout=compact&hide_border=false&border_color=ffffff1f&border_radius=16&bg_color=ffffff0a&title_color=A78BFA&text_color=C7D2FE&langs_count=6&hide=html,css,less" alt="top languages" />
 
 <br/>
 
@@ -101,7 +101,7 @@ reach_me:  ahmadfaizinaminrpl2@gmail.com
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ahmadfaizinamin&theme=onedark&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmadfaizinamin&bg_color=0F0C29&color=C7D2FE&line=A78BFA&point=67E8F9&area=true&area_color=302B63&hide_border=false&border_color=ffffff1f&radius=16" alt="contribution graph" />
 
 </div>
 
